@@ -32,3 +32,5 @@ build/
 bin/
 *dist/
 dist/
+/lab02/nbproject/private/
+/quickProject/nbproject/private/
